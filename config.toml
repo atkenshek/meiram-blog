@@ -1,4 +1,4 @@
-baseURL = 'https://meiram.netlify.app/'
+baseURL = 'https://meiram.vercel.app/'
 languageCode = 'en-us'
 title = 'Blog'
 theme = "hello-friend-ng" 
