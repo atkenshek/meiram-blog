@@ -1,0 +1,74 @@
+baseURL = 'localhost'
+languageCode = 'en-us'
+title = 'Blog'
+theme = "hello-friend-ng" 
+
+[params]
+  
+  rssFullText = true 
+
+  lastModDisplay = "Modified: Oct 13, 2022"
+
+  # Subtitle for home
+  homeSubtitle = "Software Engineer. Spring Enthusiast. Leetcoding. Love to eat delicious."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+
+[languages]
+  [languages.en]
+    title = "Meiram Sopy Temirzhanov"
+    subtitle = "Software Engineer"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd / home /"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+# And you can even create generic menu
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog"
+    url        = "/posts"
+
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/pages"
+  
+  [[params.social]]
+  name = "github"
+  url = "https://github.com/atkenshek"
+
+  [[params.social]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/meiram-sopy/"
+
+  [[params.social]]
+  name = "email"
+  url = "<profile_URL>"
+
+  [[params.social]]
+  name = "telegram"
+  url = "https://t.me/xasanoff_001"
+
