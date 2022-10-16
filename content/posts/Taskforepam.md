@@ -4,7 +4,7 @@ date: 2022-10-16T23:20:14+06:00
 draft: false
 toc: false
 images:
-tags: ["Strings","Arrays","EPAM"]
+tags: ["Strings","Arrays","EPAM"] 
 ---
 
 ### Task 1 for Epam Systems 
