@@ -1,7 +1,7 @@
 ---
 title: "Markdown Syntax"
 date: 2022-10-14T13:48:20+06:00
-draft: true
+draft: false
 toc: false
 images:
 tags: ["markdown", "css", "html"]

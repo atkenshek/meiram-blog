@@ -1,7 +1,7 @@
 ---
 title: "Task for EPAM SYSTEMS"
 date: 2022-10-16T23:20:14+06:00
-draft: true
+draft: false
 toc: false
 images:
 tags: ["Strings","Arrays","EPAM"]
