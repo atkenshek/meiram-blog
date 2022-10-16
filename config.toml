@@ -1,4 +1,4 @@
-baseURL = 'https://meek-shortbread-073242.netlify.app/'
+baseURL = 'https://meiram.netlify.app/'
 languageCode = 'en-us'
 title = 'Blog'
 theme = "hello-friend-ng" 
